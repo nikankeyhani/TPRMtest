@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysevent_email_action">
+    <sysevent_email_action action="INSERT_OR_UPDATE">
+        <action_insert>true</action_insert>
+        <action_update>true</action_update>
+        <active>true</active>
+        <advanced_condition/>
+        <affected_field_on_event/>
+        <category display_value="Uncategorized" name="Uncategorized">c97d83137f4432005f58108c3ffa917a</category>
+        <collection>sn_vdr_risk_asmt_vdr_tiering_assessment</collection>
+        <condition table="sn_vdr_risk_asmt_vdr_tiering_assessment">state=3^EQ<item display_value="Closed" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="3"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <content_type>text/html</content_type>
+        <default_interval/>
+        <description/>
+        <digest_from/>
+        <digest_html/>
+        <digest_reply_to/>
+        <digest_separator_html><![CDATA[<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>]]></digest_separator_html>
+        <digest_separator_text><![CDATA[\n--------------------------------------------------------------------------------\n]]></digest_separator_text>
+        <digest_subject/>
+        <digest_template/>
+        <digest_text/>
+        <digestable>false</digestable>
+        <event_name>activate.life.cycle.migration</event_name>
+        <event_parm_1>false</event_parm_1>
+        <event_parm_2>false</event_parm_2>
+        <exclude_delegates>false</exclude_delegates>
+        <force_delivery>false</force_delivery>
+        <from/>
+        <generation_type>engine</generation_type>
+        <importance/>
+        <include_attachments>false</include_attachments>
+        <item>event.parm1</item>
+        <item_table/>
+        <mandatory>false</mandatory>
+        <message/>
+        <message_html><![CDATA[<p>Hey</p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>test notification</name>
+        <omit_watermark>false</omit_watermark>
+        <order>100</order>
+        <push_message_only>false</push_message_only>
+        <recipient_fields/>
+        <recipient_groups/>
+        <recipient_users>4053d8921b372410e01e2131604bcb07</recipient_users>
+        <reply_to/>
+        <send_self>true</send_self>
+        <sms_alternate/>
+        <style/>
+        <subject>Hey</subject>
+        <subscribable>true</subscribable>
+        <sys_class_name>sysevent_email_action</sys_class_name>
+        <sys_created_by>nikan.keyhani</sys_created_by>
+        <sys_created_on>2022-10-28 09:02:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b2fcbafd1bf255108ba4eac6624bcbfb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test notification</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="GRC: Vendor Risk Management" source="sn_vdr_risk_asmt">4c821a2d9f42220030581471367fcf2c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GRC: Vendor Risk Management">4c821a2d9f42220030581471367fcf2c</sys_scope>
+        <sys_update_name>sysevent_email_action_b2fcbafd1bf255108ba4eac6624bcbfb</sys_update_name>
+        <sys_updated_by>nikan.keyhani</sys_updated_by>
+        <sys_updated_on>2022-10-28 09:02:52</sys_updated_on>
+        <sys_version>2</sys_version>
+        <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
+        <type>email</type>
+        <weight>0</weight>
+    </sysevent_email_action>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="GRC: Vendor Risk Management">4c821a2d9f42220030581471367fcf2c</claim_owner_scope>
+        <claim_timestamp>1841dd6889e0000001</claim_timestamp>
+        <metadata_update_name>sysevent_email_action_b2fcbafd1bf255108ba4eac6624bcbfb</metadata_update_name>
+        <previous_claim_app_version>13.0.1</previous_claim_app_version>
+        <previous_claim_name>GRC: Vendor Risk Management</previous_claim_name>
+        <previous_claim_scope>4c821a2d9f42220030581471367fcf2c</previous_claim_scope>
+        <sys_created_by>nikan.keyhani</sys_created_by>
+        <sys_created_on>2022-10-28 09:05:09</sys_created_on>
+        <sys_id>46bdf6311b3655108ba4eac6624bcbeb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>nikan.keyhani</sys_updated_by>
+        <sys_updated_on>2022-10-28 09:05:09</sys_updated_on>
+    </sys_claim>
+</record_update>
