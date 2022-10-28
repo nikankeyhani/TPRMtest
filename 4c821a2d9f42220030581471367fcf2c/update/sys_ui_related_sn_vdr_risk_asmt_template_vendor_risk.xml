@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="sn_vdr_risk_asmt_template" version="2" view="vendor_risk">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Assessment Template - Vendor Risk" name="sn_vdr_risk_asmt_template" related_list="NULL" sys_domain="global" view="32a9e9921b7ba81068edcb75604bcb14">ac50c3f11b3655108ba4eac6624bcbbe</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>sn_vdr_risk_asmt_m2m_asmt_template_questionnaire_template.assessment_template</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>nikan.keyhani</sys_created_by>
+            <sys_created_on>2022-10-28 09:16:31</sys_created_on>
+            <sys_id>a850c3f11b3655108ba4eac6624bcbc0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>nikan.keyhani</sys_updated_by>
+            <sys_updated_on>2022-10-28 09:16:31</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Assessment Template - Vendor Risk" name="sn_vdr_risk_asmt_template" related_list="NULL" sys_domain="global" view="32a9e9921b7ba81068edcb75604bcb14">ac50c3f11b3655108ba4eac6624bcbbe</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>sn_vdr_risk_asmt_m2m_asmt_template_doc_req_template.assessment_template</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>nikan.keyhani</sys_created_by>
+            <sys_created_on>2022-10-28 09:16:31</sys_created_on>
+            <sys_id>2450c3f11b3655108ba4eac6624bcbc1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>nikan.keyhani</sys_updated_by>
+            <sys_updated_on>2022-10-28 09:16:31</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Assessment Template - Vendor Risk" name="sn_vdr_risk_asmt_template" related_list="NULL" sys_domain="global" view="32a9e9921b7ba81068edcb75604bcb14">ac50c3f11b3655108ba4eac6624bcbbe</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>REL:67bdac52374010008687ddb1967334ee</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>nikan.keyhani</sys_created_by>
+            <sys_created_on>2022-10-28 09:16:31</sys_created_on>
+            <sys_id>2850c3f11b3655108ba4eac6624bcbc1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>nikan.keyhani</sys_updated_by>
+            <sys_updated_on>2022-10-28 09:16:31</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Assessment Template - Vendor Risk</calculated_name>
+            <filter/>
+            <name>sn_vdr_risk_asmt_template</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>nikan.keyhani</sys_created_by>
+            <sys_created_on>2022-10-28 09:16:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ac50c3f11b3655108ba4eac6624bcbbe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Assessment Template - Vendor Risk</sys_name>
+            <sys_package display_value="GRC: Vendor Risk Management" source="sn_vdr_risk_asmt">4c821a2d9f42220030581471367fcf2c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GRC: Vendor Risk Management">4c821a2d9f42220030581471367fcf2c</sys_scope>
+            <sys_update_name>sys_ui_related_sn_vdr_risk_asmt_template_vendor_risk</sys_update_name>
+            <sys_updated_by>nikan.keyhani</sys_updated_by>
+            <sys_updated_on>2022-10-28 09:16:31</sys_updated_on>
+            <sys_user/>
+            <view display_value="Vendor Risk" name="vendor_risk">32a9e9921b7ba81068edcb75604bcb14</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="GRC: Vendor Risk Management">4c821a2d9f42220030581471367fcf2c</claim_owner_scope>
+        <claim_timestamp>1841e1491110000001</claim_timestamp>
+        <metadata_update_name>sys_ui_related_sn_vdr_risk_asmt_template_vendor_risk</metadata_update_name>
+        <previous_claim_app_version>13.0.1</previous_claim_app_version>
+        <previous_claim_name>GRC: Vendor Risk Management</previous_claim_name>
+        <previous_claim_scope>4c821a2d9f42220030581471367fcf2c</previous_claim_scope>
+        <sys_created_by>nikan.keyhani</sys_created_by>
+        <sys_created_on>2022-10-28 10:12:55</sys_created_on>
+        <sys_id>6a3d03fd1b3655108ba4eac6624bcb44</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>nikan.keyhani</sys_updated_by>
+        <sys_updated_on>2022-10-28 10:12:55</sys_updated_on>
+    </sys_claim>
+</record_update>

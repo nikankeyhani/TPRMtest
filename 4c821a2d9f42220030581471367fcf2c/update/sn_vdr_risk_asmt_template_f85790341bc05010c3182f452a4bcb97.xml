@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_vdr_risk_asmt_template">
+    <sn_vdr_risk_asmt_template action="INSERT_OR_UPDATE">
+        <assessment_duration>29</assessment_duration>
+        <assessment_results_valid_duration>365</assessment_results_valid_duration>
+        <description>Questionnaires and document requests for IT Vendors</description>
+        <name>IT Vendor</name>
+        <questionnaire_duration>10</questionnaire_duration>
+        <questionnaire_review_duration>7</questionnaire_review_duration>
+        <sys_class_name>sn_vdr_risk_asmt_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-05 16:47:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f85790341bc05010c3182f452a4bcb97</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>IT Vendor</sys_name>
+        <sys_package display_value="GRC: Vendor Risk Management" source="sn_vdr_risk_asmt">4c821a2d9f42220030581471367fcf2c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GRC: Vendor Risk Management">4c821a2d9f42220030581471367fcf2c</sys_scope>
+        <sys_update_name>sn_vdr_risk_asmt_template_f85790341bc05010c3182f452a4bcb97</sys_update_name>
+        <sys_updated_by>nikan.keyhani</sys_updated_by>
+        <sys_updated_on>2022-10-28 09:16:42</sys_updated_on>
+    </sn_vdr_risk_asmt_template>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="GRC: Vendor Risk Management">4c821a2d9f42220030581471367fcf2c</claim_owner_scope>
+        <claim_timestamp>1841e1491400000001</claim_timestamp>
+        <metadata_update_name>sn_vdr_risk_asmt_template_f85790341bc05010c3182f452a4bcb97</metadata_update_name>
+        <previous_claim_app_version>13.0.1</previous_claim_app_version>
+        <previous_claim_name>GRC: Vendor Risk Management</previous_claim_name>
+        <previous_claim_scope>4c821a2d9f42220030581471367fcf2c</previous_claim_scope>
+        <sys_created_by>nikan.keyhani</sys_created_by>
+        <sys_created_on>2022-10-28 10:12:55</sys_created_on>
+        <sys_id>aa3d03fd1b3655108ba4eac6624bcb45</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>nikan.keyhani</sys_updated_by>
+        <sys_updated_on>2022-10-28 10:12:55</sys_updated_on>
+    </sys_claim>
+</record_update>
