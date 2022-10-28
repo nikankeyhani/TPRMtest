@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_customization">
+    <sys_app_customization action="INSERT_OR_UPDATE">
+        <sys_created_by>nikan.keyhani</sys_created_by>
+        <sys_created_on>2022-10-28 09:00:24</sys_created_on>
+        <sys_id>20acbebd1bf255108ba4eac6624bcb4e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>nikan.keyhani</sys_updated_by>
+        <sys_updated_on>2022-10-28 09:00:24</sys_updated_on>
+        <vendor_app display_value="GRC: Vendor Risk Management">4c821a2d9f42220030581471367fcf2c</vendor_app>
+        <vendor_app_version>13.0.1</vendor_app_version>
+        <version>1.0.0</version>
+        <war_version>glide-sandiego-12-22-2021__patch7-08-17-2022_08-23-2022_1902.zip</war_version>
+    </sys_app_customization>
+</record_update>
